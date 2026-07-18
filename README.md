@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ong'echi Osiango Caleb
+# Hi, I'm Ong'echi Osiango Caleb
 
-## 🚀 About Me
+## About Me
 - 💻 **Software Engineer** | Founder of **CO Technologies**
-- 🎯 *"As long as the dice is rolling, it will reach your turn"*
+- 🎯 *As long as the dice is rolling, it will reach your turn*
 - ⚡ Quick learner | Passionate about Digital Transformation
 - 🌍 Based in Kenya
 
@@ -12,8 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ongechiosiangocaleb)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebosiango5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ongechiosiango)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caleb-osiango-ongechi-81b020255/)
 
 ---
 
