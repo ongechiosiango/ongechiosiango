@@ -77,19 +77,21 @@
 
 ## 📊 GitHub Stats
 
-<!-- First Row: Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ongechiosiango&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%"/>
-</p>
+<!-- Side by side: Stats (Left) and Top Languages (Right) -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ongechiosiango&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongechiosiango&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<!-- Second Row: Top Languages - Using a different approach -->
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongechiosiango&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
-<!-- Third Row: Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ongechiosiango&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ongechiosiango&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
@@ -97,7 +99,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ongechiosiango&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ongechiosiango&theme=github-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
 </p>
 
 ---
