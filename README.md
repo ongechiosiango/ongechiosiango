@@ -77,16 +77,19 @@
 
 ## 📊 GitHub Stats
 
-<!-- First Row: Stats and Top Languages -->
+<!-- First Row: Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ongechiosiango&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongechiosiango&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ongechiosiango&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%"/>
 </p>
 
-<!-- Second Row: Streak and Repos per Language -->
+<!-- Second Row: Top Languages - Using a different approach -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ongechiosiango&theme=dark&hide_border=true" alt="GitHub Streak" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongechiosiango&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=320" alt="Repos per Language" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongechiosiango&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
+
+<!-- Third Row: Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ongechiosiango&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
