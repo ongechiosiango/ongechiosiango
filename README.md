@@ -78,16 +78,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ongechiosiango&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ongechiosiango&theme=github_dark&hide_border=true" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ongechiosiango&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ongechiosiango&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
 
-## 💻 Most Used Languages
+## 🖥️ Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongechiosiango&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongechiosiango&layout=pie&theme=github_dark&hide_border=true" alt="Top Languages" width="50%"/>
 </p>
 
 ---
