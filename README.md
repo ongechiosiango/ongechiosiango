@@ -86,8 +86,9 @@
 
 ## 🖥️ Most Used Languages
 
+<!-- Using a completely different service -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongechiosiango&layout=pie&theme=github_dark&hide_border=true" alt="Top Languages" width="50%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ongechiosiango&theme=github_dark" alt="Top Languages" width="50%"/>
 </p>
 
 ---
