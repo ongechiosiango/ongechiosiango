@@ -8,6 +8,29 @@
 
 ---
 
+## 🔭 Currently Working On
+- Building **CO Technologies** platform
+- Expanding my full-stack development skills
+- Contributing to open-source projects
+- Learning Cloud Architecture & DevOps
+
+---
+
+## 🏆 Achievements
+- 🚀 Founder of CO Technologies
+- 💡 Digital Transformation Enthusiast
+- 📜 Continuous Learner & Innovator
+- 🌟 Building solutions for the African market
+
+---
+
+## 📁 Recent Projects
+- **[CO Technologies]** - Digital Transformation Solutions (Coming Soon!)
+- **[Portfolio Website]** - Personal Portfolio (Django, Bootstrap)
+- **[E-commerce Platform]** - Online Shopping Solution (React, Node.js)
+
+---
+
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ongechiosiangocaleb)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebosiango5@gmail.com)
@@ -72,8 +95,26 @@
 
 ---
 
+## 💬 Quote
+> *"As long as the dice is rolling, it will reach your turn"*  
+> — Ong'echi Osiango Caleb
+
+---
+
+## 😄 Fun Fact
+- I believe in the power of digital transformation to revolutionize Africa
+- When I'm not coding, I'm thinking about the next big innovation
+- I'm a firm believer that technology should solve real-world problems
+
+---
+
+## ☕ Support Me
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+
+---
+
 ## 📈 Visitor Count
-![Visitors](https://api.visitorbadge.io/api/visitors?path=ongechiosiango&countColor=%23263759)
+![Visitors](https://komarev.com/ghpvc/?username=ongechiosiango&color=blue&style=flat-square)
 
 ---
 
