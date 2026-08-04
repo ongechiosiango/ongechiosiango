@@ -77,19 +77,19 @@
 
 ## 📊 GitHub Stats
 
-<!-- First Row: Stats -->
+<!-- Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ongechiosiango&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ongechiosiango&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="50%"/>
 </p>
 
-<!-- Second Row: Top Languages - Using a different approach -->
+<!-- Top Languages - Using different service -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ongechiosiango&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ongechiosiango&theme=github_dark" alt="Top Languages" width="50%"/>
 </p>
 
-<!-- Third Row: Streak Stats -->
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ongechiosiango&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ongechiosiango&theme=github_dark&hide_border=true" alt="GitHub Streak" width="50%"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ongechiosiango&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ongechiosiango&theme=github-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
 </p>
 
 ---
