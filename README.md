@@ -37,6 +37,7 @@
 ---
 
 ## 📁 Recent Projects
+<!-- TIP: link each project to its repo or live demo, e.g. [Name](https://github.com/ongechiosiango/repo-name) -->
 - **[CO Technologies]** - Digital Transformation Solutions (Coming Soon!)
 - **[Portfolio Website]** - Personal Portfolio (Django, Bootstrap) -> [Live Demo](https://ongechiosiangocaleb.page.gd/)
 - **[E-commerce Platform]** - Online Shopping Solution (React, Node.js)
@@ -108,9 +109,24 @@
 
 ---
 
-## 🏆 Featured Project
-### **CO Technologies**
-*Coming Soon!* 🚀
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ongechiosiango/ongechiosiango/output/github-snake-dark.svg" alt="Contribution snake animation" width="90%"/>
+</p>
+
+---
+
+## 🏢 CO Technologies
+*Digital transformation solutions for the African market — coming soon!* 🚀
+
+**What I can build for you:**
+- 🌐 Websites & web applications (Django, React, Node.js)
+- 🛒 E-commerce and online shopping platforms
+- ⚙️ Business systems and process automation
+- ☁️ Cloud deployment & DevOps setup
+
+📩 Interested? Email me: [calebosiango5@gmail.com](mailto:calebosiango5@gmail.com)
 
 ---
 
@@ -127,10 +143,16 @@
 
 ---
 
+<!--
+SUPPORT ME (hidden until you set your real username)
+Replace YOUR-USERNAME with your Buy Me A Coffee username, then remove the
+comment markers around this block to show it.
+
 ## ☕ Support Me
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR-USERNAME)
 
 ---
+-->
 
 ## 📈 Visitor Count
 ![Visitors](https://komarev.com/ghpvc/?username=ongechiosiango&color=blue&style=flat-square)
