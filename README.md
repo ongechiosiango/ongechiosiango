@@ -79,23 +79,23 @@
 
 ---
 
-## 📊 GitHub Streak
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ongechiosiango/ongechiosiango/main/github-metrics.svg" alt="GitHub Stats and Top Languages" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ongechiosiango&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="60%"/>
 </p>
 
-<!--
-OPTIONAL: GitHub Stats, Top Languages and Activity Graph.
-These use public servers that are often down. To bring them back,
-deploy your own copy of github-readme-stats on Vercel, then
-uncomment this block and replace YOUR-APP with your Vercel domain.
+---
+
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://YOUR-APP.vercel.app/api?username=ongechiosiango&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://YOUR-APP.vercel.app/api/top-langs/?username=ongechiosiango&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://raw.githubusercontent.com/ongechiosiango/ongechiosiango/main/github-activity.svg" alt="GitHub Activity Graph" width="95%"/>
 </p>
--->
 
 ---
 
@@ -115,6 +115,11 @@ uncomment this block and replace YOUR-APP with your Vercel domain.
 - I believe in the power of digital transformation to revolutionize Africa
 - When I'm not coding, I'm thinking about the next big innovation
 - I'm a firm believer that technology should solve real-world problems
+
+---
+
+## ☕ Support Me
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
 
 ---
 
