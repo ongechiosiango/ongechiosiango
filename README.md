@@ -82,7 +82,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ongechiosiango/ongechiosiango/main/github-metrics.svg" alt="GitHub Stats and Top Languages" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ongechiosiango/ongechiosiango/main/github-metrics.svg" alt="GitHub Stats and Top Languages" width="480"/>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ongechiosiango/ongechiosiango/main/github-activity.svg" alt="GitHub Activity Graph" width="95%"/>
+  <img src="https://raw.githubusercontent.com/ongechiosiango/ongechiosiango/main/github-activity.svg" alt="GitHub Activity Graph" width="480"/>
 </p>
 
 ---
