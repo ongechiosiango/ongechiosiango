@@ -1,10 +1,13 @@
 # Hi, I'm Ong'echi Osiango Caleb
 
+🌐 **Check out my Portfolio Website: [ongechiosiangocaleb.page.gd](https://ongechiosiangocaleb.page.gd/)**
+
 ## About Me
 - 💻 **Software Engineer** | Founder of **CO Technologies**
 - 🎯 *As long as the dice is rolling, it will reach your turn*
 - ⚡ Quick learner | Passionate about Digital Transformation
 - 🌍 Based in Kenya
+- 🚀 **View my projects and CV here: [ongechiosiangocaleb.page.gd](https://ongechiosiangocaleb.page.gd/)**
 
 ---
 
@@ -26,12 +29,13 @@
 
 ## 📁 Recent Projects
 - **[CO Technologies]** - Digital Transformation Solutions (Coming Soon!)
-- **[Portfolio Website]** - Personal Portfolio (Django, Bootstrap)
+- **[Portfolio Website]** - Personal Portfolio (Django, Bootstrap) -> [Live Demo](https://ongechiosiangocaleb.page.gd/)
 - **[E-commerce Platform]** - Online Shopping Solution (React, Node.js)
 
 ---
 
 ## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-0984e3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ongechiosiangocaleb.page.gd/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ongechiosiangocaleb)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebosiango5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ongechiosiango)
@@ -131,4 +135,4 @@
 
 ---
 
-⭐️ *From [ongechiosiango](https://github.com/ongechiosiango)*
+⭐️ *From [ongechiosiango](https://github.com/ongechiosiango) | Check out my website: [ongechiosiangocaleb.page.gd](https://ongechiosiangocaleb.page.gd/)*
