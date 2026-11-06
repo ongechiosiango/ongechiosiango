@@ -2,6 +2,15 @@
 
 🌐 **Check out my Portfolio Website: [ongechiosiangocaleb.page.gd](https://ongechiosiangocaleb.page.gd/)**
 
+### 🤝 Open To
+![Freelance Work](https://img.shields.io/badge/Open_to-Freelance_Work-2ea44f?style=for-the-badge)
+![Collaborations](https://img.shields.io/badge/Open_to-Collaborations-0984e3?style=for-the-badge)
+![Remote Roles](https://img.shields.io/badge/Open_to-Remote_Roles-8e44ad?style=for-the-badge)
+
+📩 Have a project or an idea? Reach me at [calebosiango5@gmail.com](mailto:calebosiango5@gmail.com)
+
+---
+
 ## About Me
 - 💻 **Software Engineer** | Founder of **CO Technologies**
 - 🎯 *As long as the dice is rolling, it will reach your turn*
